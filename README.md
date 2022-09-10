@@ -1,1 +1,1 @@
-# 777store
+# Loja virtual
